@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boa Viagem</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logo">Logo App</string>
+    <string name="usuario">Nome de Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="erro_Login">Login Invalido</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+    <string name="novo_gasto">Novo Gasto</string>
+    <string name="nova_viagem">Nova Viagem</string>
+    <string name="minhas_viagens">Minhas Viagens</string>
+    <string name="configuracoes">Configuracoes</string>
+	<string name="categoria">Categoria</string>
+	<string name="valor">Valor R$</string>
+	<string name="data">Data</string>
+	<string name="selecione">Selecione</string>
+	<string name="descricao">Descricao</string>
+	<string name="local">Local</string>
+	<string name="gastei">Gastei</string>
+	<string name="negocios">Negocios</string>
+	<string name="destino">Destino</string>
+	<string name="tipo_de_viagem">Tipo de Viagem</string>
+	<string name="lazer">Lazer</string>
+	<string name="data_de_saida">Data de Saida</string>
+	<string name="data_de_chegada">Data de Chegada</string>
+	<string name="quantidade_de_pessoas">Quantidade de Pessoas</string>
+	<string name="orcamento">Orcamento</string>
+	<string name="salvar">Salvar</string>
+	<string-array name="categoria_gasto">
+	    <item>Alimentação</item>
+	    <item>Combustivel</item>
+	    <item>Trasposrte</item>
+	    <item>Hospedagem</item>
+	    <item>Outros</item>
+	</string-array>
+</resources>
